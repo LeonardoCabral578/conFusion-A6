@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "tslint.json": true,
+    "tsconfig.json": true,
+    "README.md": true,
+    "package.json": true,
+    "package-lock.json": true,
+    "angular.json": true,
+    ".gitignore": true,
+    ".editorconfig": true,
+    ".vscode": true,
+    "node_modules": true,
+    "src\\tslint.json": true,
+    "src\\tsconfig.spec.json": true,
+    "src\\tsconfig.app.json": true,
+    "src\\karma.conf.js": true,
+    "src\\favicon.ico": true,
+    "src\\browserslist": true,
+    "src\\environments": true
+  }
+}
