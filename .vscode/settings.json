@@ -16,6 +16,7 @@
     "src\\karma.conf.js": true,
     "src\\favicon.ico": true,
     "src\\browserslist": true,
-    "src\\environments": true
+    "src\\environments": true,
+    "e2e": true
   }
 }
